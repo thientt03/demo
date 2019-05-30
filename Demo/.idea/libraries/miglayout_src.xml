@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="miglayout-src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Demo.Dialog/Demo.Dialog/miglayout15-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Demo.Dialog/Demo.Dialog/miglayout-src.zip!/" />
+    </SOURCES>
+  </library>
+</component>
